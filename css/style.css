@@ -122,6 +122,10 @@ form {
     background-color: #43a09d;
 }
 
+ul {
+    list-style: none;
+}
+
 textarea {
     height: 100px;
 }
