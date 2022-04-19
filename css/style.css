@@ -72,11 +72,6 @@ p {
     margin-top: 10px;
 }
 
-table {
-    width: 100%;
-    font-size: 11pt;
-}
-
 .selected {
     background-color: #f36f48;
     font-weight: bold;
