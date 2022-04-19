@@ -73,17 +73,6 @@ li {
     font-weight: bold;
 }
 
-hr {
-    border: 0;
-    height: 1px;
-    background: #f36f48;
-}
-
-form {
-    text-align: center;
-    margin-top: 0;
-}
-
 ul {
     list-style: none;
 }
