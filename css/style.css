@@ -90,22 +90,6 @@ form {
     margin-top: 0;
 }
 
-.submit {
-    background-color: #3fb6b2;
-    padding: 12px 45px;
-    border-radius: 5px;
-    cursor: pointer;
-    color: #ffffff;
-    border: none;
-    outline: none;
-    margin: 0;
-    font-weight: bold;
-}
-
-.submit:hover {
-    background-color: #43a09d;
-}
-
 ul {
     list-style: none;
 }
