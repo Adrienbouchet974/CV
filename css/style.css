@@ -92,18 +92,6 @@ textarea {
     height: 100px;
 }
 
-input, textarea {
-    margin-bottom: 10px;
-    font-size: 11pt;
-    padding: 15px 10px 10px;
-    border: 1px solid #cecece;
-    background-color: #ffffff;
-    color: #787575;
-    border-radius: 5px;
-    width: 70%;
-    outline: none;
-}
-
 .section a:hover {
     font-size: larger;
 }
